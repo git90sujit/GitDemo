@@ -25,7 +25,7 @@ public class Armstrong {
 			the value of P equals
 			to user input or not. */
 			if (temp == p) {
-				System.out.println("Yes. It is Armstrong No.");
+				System.out.println("Yes. It is Armstrong No.666666666");
 				System.out.println("Yes. It is Armstrong No. test123454656");
 			}
 			else {
